@@ -22,11 +22,7 @@
   </a>
 </p>
 
-## 🏆 LeetCode Journey
 
-<div align="left">
-  <img src="https://leetcard.jacoblin.cool/Het_bhagatji09?theme=unicorn&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
-</div>
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
@@ -106,6 +102,10 @@
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
   </a>
 </p>
+<br>
+<div align="left">
+  <img src="https://leetcard.jacoblin.cool/Het_bhagatji09?theme=unicorn&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+</div>
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hetbhagatji09&show_icons=true&locale=en&layout=compact" alt="hetbhagatji09" />
